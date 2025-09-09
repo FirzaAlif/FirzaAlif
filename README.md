@@ -1,4 +1,4 @@
-## Hi there 👋
+## I'M Firza 👋
 
 <!--
 **FirzaAlif/FirzaAlif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Politeknik Negeri Malang
+- 🌱 I’m currently learning PHP Native & Laravel Framework
+- 👨🏻‍🏫  I'm currently studying at SMK Widyagama Malang
+- 💬 Ask me anything about Programming 
